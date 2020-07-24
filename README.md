@@ -1,0 +1,2 @@
+# MySite
+django tutorial
